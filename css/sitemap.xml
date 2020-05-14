@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://project.com/index.html</loc>
+    <lastmod>2020-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://project.com/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/menu_icon_04_white_3line-crop-u4722.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/close_light.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/pasted-svg-827121x173.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/pasted-svg-459356x162.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/pasted-svg-69897x76.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/pasted-svg-90762x78.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
