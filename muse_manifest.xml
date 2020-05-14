@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589430410717">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589431677049">
   <folder name="css">
     <file name="site_global.css" crc="4155329585"/>
-    <file name="index.css" crc="342956089" ref="index"/>
+    <file name="index.css" crc="119218930" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -67,14 +67,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-465295x63.svg" crc="4191352540" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 465295x63_poster_.png" crc="171924743" ref="index"/>
-    <file name="pasted-svg-395363x38.svg" crc="422337861" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 395363x38_poster_.png" crc="4264211416" ref="index"/>
     <file name="asset 21.png" crc="4024619555" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -97,13 +89,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 90762x78_poster_.png" crc="3972470972" ref="index"/>
-    <file name="u1912-22.png" crc="140329827" ref="index"/>
+    <file name="u1912-22.png" crc="4043228260" ref="index"/>
     <file name="causeb2-u1901-fr.png" crc="4047427500" ref="index"/>
     <file name="u1905.png" crc="4271520800" ref="index"/>
     <file name="u1905-a.png" crc="4271520800" ref="index"/>
     <file name="u1904.png" crc="3984212396" ref="index"/>
     <file name="u1904-a.png" crc="336147305" ref="index"/>
-    <file name="u1928-19.png" crc="4010444932" ref="index"/>
+    <file name="u1928-19.png" crc="4061687825" ref="index"/>
     <file name="causeb1-u1921-fr.png" crc="3785883844" ref="index"/>
     <file name="u1924.png" crc="3766452044" ref="index"/>
     <file name="u1924-a.png" crc="3766452044" ref="index"/>
@@ -156,6 +148,12 @@
     <file name="down.png" crc="3024506" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="81.png" crc="3934419565" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14.png" crc="532259437" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4155675962" seo="true" mt="1589430401884" redirect="true"/>
+  <file name="index.html" crc="4232567596" seo="true" mt="1589431665844" redirect="true"/>
 </manifest>
