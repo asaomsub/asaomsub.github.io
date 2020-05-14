@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589467355924">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589474721975">
   <folder name="css">
     <file name="site_global.css" crc="4155329585"/>
-    <file name="index.css" crc="15852006" ref="index"/>
+    <file name="index.css" crc="480752872" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -128,9 +128,6 @@
     <file name="asset 33.png" crc="43537741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1.png" crc="3931081344" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="orange2.png" crc="4001946748" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -151,6 +148,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u8007-4.png" crc="255927137" ref="index"/>
+    <file name="mtnew.png" crc="3798720321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3844074649" seo="true" mt="1589467344447" redirect="true"/>
+  <file name="index.html" crc="149223300" seo="true" mt="1589474713495" redirect="true"/>
 </manifest>
