@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589432073383">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1589467355924">
   <folder name="css">
     <file name="site_global.css" crc="4155329585"/>
-    <file name="index.css" crc="33971663" ref="index"/>
+    <file name="index.css" crc="15852006" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -55,10 +55,6 @@
     <file name="close_light.png" crc="126613487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-406244x64.svg" crc="183193273" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 406244x64_poster_.png" crc="4154491066" ref="index"/>
     <file name="pasted-svg-827121x173.svg" crc="321621734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -154,6 +150,7 @@
     <file name="14.png" crc="532259437" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u8007-4.png" crc="255927137" ref="index"/>
   </folder>
-  <file name="index.html" crc="505217700" seo="true" mt="1589432041692" redirect="true"/>
+  <file name="index.html" crc="3844074649" seo="true" mt="1589467344447" redirect="true"/>
 </manifest>
