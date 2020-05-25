@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1590388479085">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1590425865469">
   <folder name="css">
     <file name="site_global.css" crc="4155329585"/>
-    <file name="index.css" crc="208541627" ref="index"/>
+    <file name="index.css" crc="3972617883" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,9 +25,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 1.png" crc="163296157" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 34.png" crc="4214729438" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 20.png" crc="4235881039" ref="index">
@@ -97,7 +94,7 @@
     <file name="u3349-4.png" crc="512997203" ref="index"/>
     <file name="u3347-6.png" crc="4285028062" ref="index"/>
     <file name="u3351-4.png" crc="183655621" ref="index"/>
-    <file name="u3352-6.png" crc="4187024635" ref="index"/>
+    <file name="u3352-6.png" crc="372893670" ref="index"/>
     <file name="u3345-4.png" crc="4178850318" ref="index"/>
     <file name="u3344-7.png" crc="230793579" ref="index"/>
     <file name="untitled-1.png" crc="4038776542" ref="index">
@@ -152,6 +149,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u8598-14.png" crc="109674299" ref="index"/>
+    <file name="asset 34.png" crc="4214729438" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="459440738" seo="true" mt="1590388454907" redirect="true"/>
+  <file name="index.html" crc="3871598087" seo="true" mt="1590425844261" redirect="true"/>
 </manifest>
